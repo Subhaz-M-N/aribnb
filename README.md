@@ -31,6 +31,3 @@
 
 ![image](https://github.com/IamJafar/Airbnb_Analysis/assets/121713702/707d2d2a-0232-4e6c-94c6-2a9bddd55eba)
 
-
-#### My other Dashboards : [Take a Look](https://public.tableau.com/app/profile/jafar.hussain5161)
-
